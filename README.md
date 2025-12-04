@@ -73,16 +73,16 @@ A RESTful Spring Boot backend for an e-commerce platform with JWT authentication
 └─────────────────┘
 ```
 
-### Key Components
+ Key Components
 - **Controllers**: Handle HTTP requests and responses
 - **Services**: Business logic implementation
 - **Repositories**: Database operations using Spring Data JPA
 - **Security Config**: JWT authentication and authorization
 - **Models**: User, Product, and Role entities
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
-### Prerequisites
+ Prerequisites
 
 - **Java Development Kit (JDK)**: 17 or higher
 - **Maven**: 3.6+
@@ -291,8 +291,8 @@ Recommended platforms for permanent deployment:
 ### Frontend Integration
 
 This backend works with the Angular frontend:
-- **Repository**: [Store Frontend](https://github.com/yourusername/store-frontend)
-- **Live Demo**: https://store-frontend-oggdy1jzp-prodefieds-projects.vercel.app
+- **Repository**: [Store Frontend](https://github.com/kloyalty/store-frontend)
+- **Live Demo**: https://store-frontend-jet.vercel.app/
 
 ## 🔮 Future Enhancements
 
@@ -307,7 +307,7 @@ This backend works with the Angular frontend:
 - [ ] **Admin Dashboard**: Analytics and monitoring
 - [ ] **Email Notifications**: Order confirmations
 
-### Security Improvements
+ Security Improvements
 
 - [ ] **Rate Limiting**: Prevent API abuse
 - [ ] **Two-Factor Authentication (2FA)**
@@ -315,7 +315,7 @@ This backend works with the Angular frontend:
 - [ ] **Token Refresh**: Automatic token renewal
 - [ ] **Audit Logging**: Track user actions
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -325,18 +325,18 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Code Standards
+ Code Standards
 
 - Follow Java naming conventions
 - Write unit tests for new features
 - Update documentation as needed
 - Ensure code passes all existing tests
 
-## 📝 License
+ 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
+ 📧 Contact
 
 **Project Maintainer**: [Caleb]
 
