@@ -338,19 +338,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: [Your Name]
+**Project Maintainer**: [Caleb]
 
 - GitHub: [@kloyalty](https://github.com/kloyalty)
-- Email: your.email@example.com
+- Email: calebelimian@gmail.com
 
-## 🙏 Acknowledgments
+🙏 Acknowledgments
 
 - Spring Boot team for the excellent framework
 - JWT.io for token implementation guidance
 - The open-source community
 
----
-
-**⭐ If you find this project useful, please consider giving it a star!**
-
-Made with ❤️ using Spring Boot
